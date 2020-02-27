@@ -30,20 +30,20 @@ const configs = {
     smoke: {
         port: 3000,
         dbUser: 'root',
-        dbPassword: 'rapido@98',
+        dbPassword: 'root',
         database: 'rapido',
     },
     integration: {
         port: 3000,
         dbUser: 'root',
-        dbPassword: 'rapido@197',
+        dbPassword: 'root',
         database: 'rapido',
         host: '0.0.0.0',
     },
     production: {
         port: 3000,
         dbUser: 'root',
-        dbPassword: 'rapido@271',
+        dbPassword: 'root',
         database: 'rapido',
         adminEmail: 'admin@gmail.com',
         toEmail: 'admin@gmail.com',
